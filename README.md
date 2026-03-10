@@ -90,7 +90,7 @@ streamlit run methane_app.py
 ## Author
 
 Wasan Al-Salhi
-Mariam Al-Risi
+Maryam-Al-Risi
 
 This project is intended for research and educational purposes.
 
